@@ -1,4 +1,5 @@
 mnews.joins.com###innerBigBanner
+mnews.joins.com##.adtext.adlink
 mnews.joins.com##.band_ad_middle.ad_h100
 mnews.joins.com##.shopping_box.adlink
 mnews.joins.com###zone_band_ad_bottom
