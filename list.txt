@@ -1,0 +1,15 @@
+mnews.joins.com###innerBigBanner
+mnews.joins.com##.band_ad_middle.ad_h100
+mnews.joins.com###zone_band_ad_bottom
+news.joins.com##.sub_da_300.rts:nth-of-type(1)
+news.joins.com###leftbanner
+news.joins.com###wide_ad_bottom
+news.joins.com##.sub_da_250.rts
+news.joins.com##.sub_premium_link.rts
+news.joins.com##.biz_link.rts
+news.joins.com##.popular_link.rts
+news.joins.com##.special_link.rts
+news.joins.com##.hotissue_link.rts
+news.joins.com##.premium_link.rts
+news.joins.com##.sub_da_300.rts
+
